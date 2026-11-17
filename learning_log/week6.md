@@ -2,7 +2,7 @@
 
 ### Learned:
 - using stepper motor
-- Either 1024 or 4096 steps represent 360 degrees.
+- Either 1024 or 4096 steps represent 360 degrees. (Steps per revolution)
 
 ### Thoughts
 
